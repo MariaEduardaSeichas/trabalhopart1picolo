@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "rxrosget",
-    "password": "8FX6N3zeKUTXHjP5Z5qTbjqYHxj_B5ww",
-    "database": "rxrosget",
-    "host": "babar.db.elephantsql.com",
+    "username": "postgres",
+    "password": "postgres",
+    "database": "database_development",
+    "host": "localhost",
     "dialect": "postgres"
   },
   "test": {
